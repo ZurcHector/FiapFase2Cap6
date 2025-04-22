@@ -32,10 +32,6 @@ controle_insumos_agro/
 ├── relatorio.txt # Relatório gerado via opção 5 
 └── README.md # Este documento
 
-markdown
-Copy
-Edit
-
 ## 🛠️ Como Executar
 
 ### Pré-requisitos:
