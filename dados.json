@@ -1,0 +1,20 @@
+[
+    {
+        "nome": "Adubo NPK",
+        "tipo": "fertilizante",
+        "quantidade": 100,
+        "validade": "30/12/2024"
+    },
+    {
+        "nome": "Herbicida X",
+        "tipo": "defensivo",
+        "quantidade": 50,
+        "validade": "15/09/2025"
+    },
+    {
+        "nome": "Fertilizante Z",
+        "tipo": "fertilizante",
+        "quantidade": 10,
+        "validade": "28/08/2030"
+    }
+]
